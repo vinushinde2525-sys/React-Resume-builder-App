@@ -111,7 +111,7 @@ quick/
 ### 1️⃣ Clone the repository
 
 ```bash id="xfqjba"
-git clone https://github.com/vinushinde2525-sys/resume-builder-app.git
+git clone https://github.com/vinushinde2525-sys/React-Resume-builder-App.git
 
 cd resume-builder-app
 ```
